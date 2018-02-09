@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir=ltr itemscope itemtype=https://schema.org/VisualArtwork lang=en>
+<html dir=ltr itemscope itemtype=http://schema.org/VisualArtwork lang=en>
 <head>
 <meta charset=utf-8>
 <meta itemprop=artform content=Digital>
@@ -49,7 +49,7 @@ function run() {
   clickingSound.currentTime = 0;
   clickingSound.play();
   bg.style.backgroundColor = '#' + Math.floor(Math.random()*16777215).toString(16);
-  bg.style.color = bg.style.color == 'blue' ? 'purple' : 'blue';
+  bg.style.color = bg.style.color === 'blue' ? 'purple' : 'blue';
 }
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
