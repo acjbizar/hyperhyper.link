@@ -1,1 +1,1 @@
-sitemap: https://hyperhyper.link/sitemap.xml
+Sitemap: https://hyperhyper.link/sitemap.xml
