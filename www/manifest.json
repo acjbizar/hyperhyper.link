@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20200410",
+    "name": "Hyper Hyper Link",
+    "default_locale": "en",
+    "description": "Website + domain name, 2016.",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#cccccc",
+    "homepage_url": "https://hyperhyper.link/",
+    "start_url": "https://hyperhyper.link/",
+    "icons": [
+        {
+            "src": "https://hyperhyper.link/images/opengraph.jpg"
+        }
+    ],
+    "display": "fullscreen"
+}
