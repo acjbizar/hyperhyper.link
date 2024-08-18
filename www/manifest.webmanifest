@@ -1,0 +1,19 @@
+{
+  "$schema": "https:\/\/json.schemastore.org\/web-manifest-combined.json",
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Hyper Hyper Link",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://hyperhyper.link/apple-touch-icon.png",
+      "sizes": "288x288",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "scope": "/",
+  "id": "https://hyperhyper.link/",
+  "theme_color": "white",
+  "background_color": "black"
+}
